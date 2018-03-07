@@ -336,7 +336,6 @@
     .flot-a div {
         display: inline-block;
         overflow: hidden;
-        width: 100%;
     }
     
     .service-font {
@@ -882,9 +881,14 @@
             margin-bottom: 25px;
             padding-right: 55%;
         }
-        .service-tex {
-            padding-left: 20px;
+        .flot-a p {
+            width: 100%
         }
+        .service-font {
+            width: 100%;
+            padding-right: 0;
+        }
+        .service-tex {}
         /************************practice-section****************************************/
         .
         /***********************************************suarez-section *************************************************/
