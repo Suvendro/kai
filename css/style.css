@@ -150,7 +150,7 @@
         border-bottom: 3px solid #e8bf5d;
     }
     
-    .left {
+    .laft {
         padding-left: 0 !important;
     }
     
@@ -358,11 +358,11 @@
         padding-bottom: 70px;
     }
     
-    .left-55 {
+    .left {
         padding-right: 55px;
     }
     
-    .right-55 {
+    .right {
         padding-left: 55px;
     }
     /************************practice-section****************************************/
@@ -853,6 +853,7 @@
         .history {
             width: 100%;
             text-align: center;
+            padding-right: 0;
         }
         .expertise {
             width: 100%;
@@ -1101,6 +1102,7 @@
         }
         .history {
             width: 100%;
+            padding-right: 0;
         }
         .expertise {
             width: 100%;
