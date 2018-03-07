@@ -336,6 +336,7 @@
     .flot-a div {
         display: inline-block;
         overflow: hidden;
+        width: 100%;
     }
     
     .service-font {
@@ -873,6 +874,13 @@
         .flot-a {
             padding: 0;
             padding-bottom: 25px;
+        }
+        .flot-a i {
+            font-size: 45px;
+            color: #e8bf5d;
+            width: 100%;
+            margin-bottom: 25px;
+            padding-right: 55%;
         }
         .service-tex {
             padding-left: 20px;
